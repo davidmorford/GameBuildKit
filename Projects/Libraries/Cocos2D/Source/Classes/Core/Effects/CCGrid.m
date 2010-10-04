@@ -26,18 +26,18 @@
 
 #import <Availability.h>
 
-#import "ccMacros.h"
-#import "CCGrid.h"
-#import "CCTexture2D.h"
-#import "CCDirector.h"
-#import "CCGrabber.h"
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCGrid.h>
+#import <Cocos2D/CCTexture2D.h>
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/CCGrabber.h>
 
-#import "CCGL.h"
-#import "CGPointExtension.h"
-#import "ccUtils.h"
+#import <Cocos2D/CCGL.h>
+#import <Cocos2D/CGPointExtension.h>
+#import <Cocos2D/ccUtils.h>
 
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
-#import "CCDirectorIOS.h"
+#import <Cocos2D/CCDirectorIOS.h>
 #endif // __IPHONE_OS_VERSION_MAX_ALLOWED
 
 #pragma mark -

@@ -36,8 +36,8 @@
  *   - CCTargetedTouchHandler: propagates 1 event at the time
  */
 
-#import "CCTouchHandler.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCTouchHandler.h>
+#import <Cocos2D/ccMacros.h>
 
 #pragma mark -
 #pragma mark TouchHandler

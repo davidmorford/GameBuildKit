@@ -24,7 +24,7 @@
  */
 
 
-#import "CCNode.h"
+#import <Cocos2D/CCNode.h>
 
 /** CCScene is a subclass of CCNode that is used only as an abstract concept.
  

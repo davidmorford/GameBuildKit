@@ -25,10 +25,10 @@
 
 
 // cocos2d
-#import "CCTextureAtlas.h"
-#import "ccMacros.h"
-#import "CCTexture2D.h"
-#import "CCTextureCache.h"
+#import <Cocos2D/CCTextureAtlas.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCTexture2D.h>
+#import <Cocos2D/CCTextureCache.h>
 
 
 @interface CCTextureAtlas (Private)

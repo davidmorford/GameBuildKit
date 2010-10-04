@@ -23,9 +23,9 @@
  *
  */
 
-#import "CCTexture2D.h"
-#import "ccTypes.h"
-#import "ccConfig.h"
+#import <Cocos2D/CCTexture2D.h>
+#import <Cocos2D/ccTypes.h>
+#import <Cocos2D/ccConfig.h>
 
 /** A class that implements a Texture Atlas.
  Supported features:

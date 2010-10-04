@@ -29,8 +29,8 @@
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 
 
-#import "CCTouchDispatcher.h"
-#import "CCTouchHandler.h"
+#import <Cocos2D/CCTouchDispatcher.h>
+#import <Cocos2D/CCTouchHandler.h>
 
 
 @implementation CCTouchDispatcher

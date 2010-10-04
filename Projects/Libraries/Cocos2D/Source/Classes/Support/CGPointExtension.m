@@ -23,11 +23,10 @@
  * SOFTWARE.
  */
 
-#include "stdio.h"
-#include "math.h"
-
-#import "ccMacros.h"		// CC_SWAP
-#include "CGPointExtension.h"
+#import <stdio.h>
+#import <math.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CGPointExtension.h>
 
 #define kCGPointEpsilon FLT_EPSILON
 

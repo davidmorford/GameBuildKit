@@ -28,9 +28,9 @@
  *
  */
 
-#import "CCTMXObjectGroup.h"
-#import "CCTMXXMLParser.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCTMXObjectGroup.h>
+#import <Cocos2D/CCTMXXMLParser.h>
+#import <Cocos2D/CGPointExtension.h>
 
 
 #pragma mark -

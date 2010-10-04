@@ -25,10 +25,10 @@
 
 
 #import <Availability.h>
-#import "CCFileUtils.h"
-#import "CCConfiguration.h"
-#import "ccMacros.h"
-#import "ccConfig.h"
+#import <Cocos2D/CCFileUtils.h>
+#import <Cocos2D/CCConfiguration.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/ccConfig.h>
 
 static NSFileManager *__localFileManager=nil;
 

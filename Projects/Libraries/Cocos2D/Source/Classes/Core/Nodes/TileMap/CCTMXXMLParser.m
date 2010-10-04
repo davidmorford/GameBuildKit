@@ -31,14 +31,14 @@
 #import <Foundation/Foundation.h>
 #include <zlib.h>
 
-#import "ccMacros.h"
-#import "CGPointExtension.h"
-#import "CCTMXXMLParser.h"
-#import "CCTMXTiledMap.h"
-#import "CCTMXObjectGroup.h"
-#import "CCFileUtils.h"
-#import "base64.h"
-#import "ZipUtils.h"
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CGPointExtension.h>
+#import <Cocos2D/CCTMXXMLParser.h>
+#import <Cocos2D/CCTMXTiledMap.h>
+#import <Cocos2D/CCTMXObjectGroup.h>
+#import <Cocos2D/CCFileUtils.h>
+#import <Cocos2D/base64.h>
+#import <Cocos2D/ZipUtils.h>
 
 #pragma mark -
 #pragma mark TMXLayerInfo

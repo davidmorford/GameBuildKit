@@ -26,9 +26,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import "CCNode.h"
-#import "CCCamera.h"
-#import "ccTypes.h"
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCCamera.h>
+#import <Cocos2D/ccTypes.h>
 
 @class CCTexture2D;
 @class CCGrabber;

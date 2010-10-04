@@ -25,8 +25,8 @@
  */
 
 
-#import "CCParticleSystem.h"
-#import "ccConfig.h"
+#import <Cocos2D/CCParticleSystem.h>
+#import <Cocos2D/ccConfig.h>
 
 @class CCSpriteFrame;
 

@@ -24,8 +24,8 @@
  */
 
 
-#import "CCAtlasNode.h"
-#import "CCTextureAtlas.h"
+#import <Cocos2D/CCAtlasNode.h>
+#import <Cocos2D/CCTextureAtlas.h>
 
 /** CCLabelAtlas is a subclass of CCAtlasNode.
  

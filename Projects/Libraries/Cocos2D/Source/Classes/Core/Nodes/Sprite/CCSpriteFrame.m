@@ -24,9 +24,9 @@
  */
 
 
-#import "CCTextureCache.h"
-#import "CCSpriteFrame.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CCSpriteFrame.h>
+#import <Cocos2D/ccMacros.h>
 
 #pragma mark -
 #pragma mark CCAnimation

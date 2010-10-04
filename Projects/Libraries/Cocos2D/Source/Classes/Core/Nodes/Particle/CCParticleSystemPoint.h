@@ -24,7 +24,7 @@
  */
 
 
-#import "CCParticleSystem.h"
+#import <Cocos2D/CCParticleSystem.h>
 
 #define CC_MAX_PARTICLE_SIZE 64
 

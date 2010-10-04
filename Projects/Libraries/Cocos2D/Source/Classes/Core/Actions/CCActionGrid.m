@@ -24,8 +24,8 @@
  */
 
 
-#import "CCActionGrid.h"
-#import "CCDirector.h"
+#import <Cocos2D/CCActionGrid.h>
+#import <Cocos2D/CCDirector.h>
 
 #pragma mark -
 #pragma mark GridAction

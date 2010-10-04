@@ -25,24 +25,24 @@
 
 
 
-#import "CCTransition.h"
-#import "CCNode.h"
-#import "CCDirector.h"
-#import "CCActionInterval.h"
-#import "CCActionInstant.h"
-#import "CCActionCamera.h"
-#import "CCLayer.h"
-#import "CCCamera.h"
-#import "CCActionTiledGrid.h"
-#import "CCActionEase.h"
-#import "CCRenderTexture.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCTransition.h>
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/CCActionInterval.h>
+#import <Cocos2D/CCActionInstant.h>
+#import <Cocos2D/CCActionCamera.h>
+#import <Cocos2D/CCLayer.h>
+#import <Cocos2D/CCCamera.h>
+#import <Cocos2D/CCActionTiledGrid.h>
+#import <Cocos2D/CCActionEase.h>
+#import <Cocos2D/CCRenderTexture.h>
+#import <Cocos2D/CGPointExtension.h>
 
 #import <Availability.h>
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
-#import "CCTouchDispatcher.h"
+#import <Cocos2D/CCTouchDispatcher.h>
 #elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
-#import "Mac/CCEventDispatcher.h"
+#import <Cocos2D/Mac/CCEventDispatcher.h>
 #endif
 
 enum {

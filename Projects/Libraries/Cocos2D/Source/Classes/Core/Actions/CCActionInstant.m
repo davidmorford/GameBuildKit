@@ -24,10 +24,10 @@
  */
 
 
-#import "CCBlockSupport.h"
-#import "CCActionInstant.h"
-#import "CCNode.h"
-#import "CCSprite.h"
+#import <Cocos2D/CCBlockSupport.h>
+#import <Cocos2D/CCActionInstant.h>
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCSprite.h>
 
 
 //

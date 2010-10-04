@@ -24,9 +24,9 @@
  */
 
 
-#import "CCScene.h"
-#import "CGPointExtension.h"
-#import "CCDirector.h"
+#import <Cocos2D/CCScene.h>
+#import <Cocos2D/CGPointExtension.h>
+#import <Cocos2D/CCDirector.h>
 
 
 @implementation CCScene

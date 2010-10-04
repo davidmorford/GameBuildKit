@@ -19,7 +19,7 @@
 // limitations under the License.
 //
 
-#import "ZFont.h"
+#import <Cocos2D/ZFont.h>
 
 @interface ZFont ()
 @property (nonatomic, readonly) CGFloat ratio;

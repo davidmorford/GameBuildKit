@@ -6,8 +6,8 @@
 //  Copyright 2009 Zynga Game Networks. All rights reserved.
 //
 
-#import "ZAttributedString.h"
-#import "ZAttributedStringPrivate.h"
+#import <Cocos2D/ZAttributedString.h>
+#import <Cocos2D/ZAttributedStringPrivate.h>
 
 @interface ZAttributedString ()
 - (NSUInteger)indexOfEffectiveAttributeRunForIndex:(NSUInteger)index;

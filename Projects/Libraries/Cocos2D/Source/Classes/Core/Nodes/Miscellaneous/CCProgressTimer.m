@@ -23,11 +23,11 @@
  *
  */
 
-#import "CCProgressTimer.h"
+#import <Cocos2D/CCProgressTimer.h>
 
-#import "ccMacros.h"
-#import "CCTextureCache.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CGPointExtension.h>
 
 
 

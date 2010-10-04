@@ -23,9 +23,9 @@
  *
  */
 
-#import "CCTransition.h"
-#import "CCProgressTimer.h"
-#import "CCActionProgressTimer.h"
+#import <Cocos2D/CCTransition.h>
+#import <Cocos2D/CCProgressTimer.h>
+#import <Cocos2D/CCActionProgressTimer.h>
 
 /** CCTransitionRadialCCW transition.
  A counter colock-wise radial transition to the next scene

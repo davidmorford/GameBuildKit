@@ -25,10 +25,10 @@
 
 
 // cocos2d
-#import "CCParticleExamples.h"
-#import "CCTextureCache.h"
-#import "CCDirector.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCParticleExamples.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/CGPointExtension.h>
 
 //
 // ParticleFireworks

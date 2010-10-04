@@ -23,8 +23,8 @@
  */
 
 
-#import "CCAtlasNode.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCAtlasNode.h>
+#import <Cocos2D/ccMacros.h>
 
 
 @interface CCAtlasNode ()

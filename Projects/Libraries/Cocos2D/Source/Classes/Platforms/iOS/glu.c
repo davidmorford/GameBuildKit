@@ -13,8 +13,8 @@
 
 #import <OpenGLES/ES1/gl.h>
 #import <math.h>
-#import "OpenGL_Internal.h"
-#include "glu.h"
+#import <Cocos2D/OpenGL_Internal.h>
+#import <Cocos2D/glu.h>
 
 void gluPerspective(GLfloat fovy, GLfloat aspect, GLfloat zNear, GLfloat zFar)
 {	

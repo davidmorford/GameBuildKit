@@ -24,8 +24,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "CCNode.h"
-#import "CCRibbon.h"
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCRibbon.h>
 
 /**
  * CCMotionStreak manages a Ribbon based on it's motion in absolute space.

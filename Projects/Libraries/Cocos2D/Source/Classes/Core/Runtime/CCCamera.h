@@ -24,7 +24,7 @@
 
 
 
-#import "CCNode.h"
+#import <Cocos2D/CCNode.h>
 
 /** 
     A Camera is used in every CocosNode.

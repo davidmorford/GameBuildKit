@@ -22,8 +22,8 @@
  * THE SOFTWARE.
  */
 
-#import "CCArray.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCArray.h>
+#import <Cocos2D/ccMacros.h>
 
 
 @implementation CCArray

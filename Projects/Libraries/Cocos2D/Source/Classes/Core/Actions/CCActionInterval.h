@@ -24,9 +24,9 @@
  */
 
 
-#import "CCNode.h"
-#import "CCAction.h"
-#import "CCProtocols.h"
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCAction.h>
+#import <Cocos2D/CCProtocols.h>
 
 #include <sys/time.h>
 

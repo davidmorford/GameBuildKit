@@ -25,9 +25,9 @@
  */
 
 
-#import "CCAction.h"
-#import "ccCArray.h"
-#import "uthash.h"
+#import <Cocos2D/CCAction.h>
+#import <Cocos2D/ccCArray.h>
+#import <Cocos2D/uthash.h>
 
 typedef struct _hashElement
 {

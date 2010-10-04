@@ -31,24 +31,24 @@
 #import <unistd.h>
 
 // cocos2d imports
-#import "CCDirectorIOS.h"
-#import "CCTouchDelegateProtocol.h"
-#import "CCTouchDispatcher.h"
-#import "CCScheduler.h"
-#import "CCActionManager.h"
-#import "CCTextureCache.h"
-#import "ccMacros.h"
-#import "CCScene.h"
+#import <Cocos2D/CCDirectorIOS.h>
+#import <Cocos2D/CCTouchDelegateProtocol.h>
+#import <Cocos2D/CCTouchDispatcher.h>
+#import <Cocos2D/CCScheduler.h>
+#import <Cocos2D/CCActionManager.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCScene.h>
 
 // support imports
-#import "glu.h"
-#import "OpenGL_Internal.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/glu.h>
+#import <Cocos2D/OpenGL_Internal.h>
+#import <Cocos2D/CGPointExtension.h>
 
-#import "CCLayer.h"
+#import <Cocos2D/CCLayer.h>
 
 #if CC_ENABLE_PROFILERS
-#import "CCProfiling.h"
+#import <Cocos2D/CCProfiling.h>
 #endif
 
 

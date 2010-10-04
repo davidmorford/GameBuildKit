@@ -25,8 +25,8 @@
 
 
 #import <Foundation/Foundation.h>
-#import "CCProgressTimer.h"
-#import "CCActionInterval.h"
+#import <Cocos2D/CCProgressTimer.h>
+#import <Cocos2D/CCActionInterval.h>
 
 /**
  Progress to percentage

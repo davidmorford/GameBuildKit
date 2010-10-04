@@ -28,7 +28,7 @@
 
 
 #import <Foundation/Foundation.h>
-#import "cocos2d.h"
+#import <Cocos2D/cocos2d.h>
 
 #if CC_COMPATIBILITY_WITH_0_8
 

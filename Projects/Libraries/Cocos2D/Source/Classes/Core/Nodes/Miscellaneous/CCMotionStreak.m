@@ -33,8 +33,8 @@
  * is vertically aligned along the streak segemnts. 
  */
 
-#import "CCMotionStreak.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCMotionStreak.h>
+#import <Cocos2D/CGPointExtension.h>
 
 @implementation CCMotionStreak
 

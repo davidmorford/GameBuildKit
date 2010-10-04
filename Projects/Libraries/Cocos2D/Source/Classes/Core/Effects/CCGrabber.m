@@ -24,11 +24,11 @@
  */
 
 
-#import "CCGL.h"
-#import "CCGrabber.h"
-#import "ccMacros.h"
-#import "CCTexture2D.h"
-#import "OpenGL_Internal.h"
+#import <Cocos2D/CCGL.h>
+#import <Cocos2D/CCGrabber.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCTexture2D.h>
+#import <Cocos2D/OpenGL_Internal.h>
 
 @implementation CCGrabber
 

@@ -25,13 +25,13 @@
  */
 
 
-#import "ccConfig.h"
-#import "CCSprite.h"
-#import "CCSpriteBatchNode.h"
-#import "CCGrid.h"
-#import "CCDrawingPrimitives.h"
-#import "CCTextureCache.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/ccConfig.h>
+#import <Cocos2D/CCSprite.h>
+#import <Cocos2D/CCSpriteBatchNode.h>
+#import <Cocos2D/CCGrid.h>
+#import <Cocos2D/CCDrawingPrimitives.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CGPointExtension.h>
 
 const NSUInteger defaultCapacity = 29;
 

@@ -23,8 +23,8 @@
  *
  */
 
-#import "CCNode.h"
-#import "ccCArray.h"
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/ccCArray.h>
 
 /** CCParallaxNode: A node that simulates a parallax scroller
  

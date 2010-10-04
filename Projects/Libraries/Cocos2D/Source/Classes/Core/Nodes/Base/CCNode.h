@@ -25,13 +25,13 @@
 
 #import <Availability.h>
 
-#import "CCGL.h"
-#import "CCAction.h"
-#import "ccTypes.h"
-#import "CCTexture2D.h"
-#import "CCProtocols.h"
-#import "ccConfig.h"
-#import "CCArray.h"
+#import <Cocos2D/CCGL.h>
+#import <Cocos2D/CCAction.h>
+#import <Cocos2D/ccTypes.h>
+#import <Cocos2D/CCTexture2D.h>
+#import <Cocos2D/CCProtocols.h>
+#import <Cocos2D/ccConfig.h>
+#import <Cocos2D/CCArray.h>
 
 enum {
 	kCCNodeTagInvalid = -1,

@@ -33,8 +33,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import "CCSpriteFrame.h"
-#import "CCTexture2D.h"
+#import <Cocos2D/CCSpriteFrame.h>
+#import <Cocos2D/CCTexture2D.h>
 
 @class CCSprite;
 

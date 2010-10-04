@@ -28,11 +28,11 @@
 #import <UIKit/UIKit.h>		// Needed for UIDevice
 #endif
 
-#import "CCGL.h"
-#import "CCBlockSupport.h"
-#import "CCConfiguration.h"
-#import "ccMacros.h"
-#import "ccConfig.h"
+#import <Cocos2D/CCGL.h>
+#import <Cocos2D/CCBlockSupport.h>
+#import <Cocos2D/CCConfiguration.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/ccConfig.h>
 
 
 @implementation CCConfiguration

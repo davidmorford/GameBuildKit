@@ -24,7 +24,7 @@
  */
 
 
-#import "CCTransition.h"
+#import <Cocos2D/CCTransition.h>
 
 /** CCTransitionPageTurn transition.
  * A transition which peels back the bottom right hand corner of a scene

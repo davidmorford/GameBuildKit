@@ -24,7 +24,7 @@
  */
 
 
-#import "CCActionProgressTimer.h"
+#import <Cocos2D/CCActionProgressTimer.h>
 
 #define kProgressTimerCast CCProgressTimer*
 

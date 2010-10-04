@@ -24,8 +24,8 @@
 
 
 
-#import "uthash.h"
-#import "ccTypes.h"
+#import <Cocos2D/uthash.h>
+#import <Cocos2D/ccTypes.h>
 
 typedef void (*TICK_IMP)(id, SEL, ccTime);
 

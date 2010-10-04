@@ -25,15 +25,15 @@
 
 #import <Availability.h>
 
-#import "ccConfig.h"
-#import "CCSpriteBatchNode.h"
-#import "CCSpriteSheet.h"
-#import "CCSprite.h"
-#import "CCSpriteFrame.h"
-#import "CCSpriteFrameCache.h"
-#import "CCTextureCache.h"
-#import "CGPointExtension.h"
-#import "CCDrawingPrimitives.h"
+#import <Cocos2D/ccConfig.h>
+#import <Cocos2D/CCSpriteBatchNode.h>
+#import <Cocos2D/CCSpriteSheet.h>
+#import <Cocos2D/CCSprite.h>
+#import <Cocos2D/CCSpriteFrame.h>
+#import <Cocos2D/CCSpriteFrameCache.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CGPointExtension.h>
+#import <Cocos2D/CCDrawingPrimitives.h>
 
 #pragma mark -
 #pragma mark CCSprite

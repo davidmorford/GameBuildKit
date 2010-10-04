@@ -24,7 +24,7 @@
  */
 
 
-#import "CCBlockSupport.h"
+#import <Cocos2D/CCBlockSupport.h>
 
 #if NS_BLOCKS_AVAILABLE
 

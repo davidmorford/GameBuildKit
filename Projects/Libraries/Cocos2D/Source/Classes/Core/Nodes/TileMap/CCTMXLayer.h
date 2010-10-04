@@ -28,8 +28,8 @@
  */
 
 
-#import "CCAtlasNode.h"
-#import "CCSpriteBatchNode.h"
+#import <Cocos2D/CCAtlasNode.h>
+#import <Cocos2D/CCSpriteBatchNode.h>
 
 
 @class CCTMXMapInfo;

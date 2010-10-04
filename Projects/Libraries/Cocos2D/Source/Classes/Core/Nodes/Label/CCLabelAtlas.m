@@ -24,11 +24,11 @@
  */
 
 
-#import "ccConfig.h"
-#import "ccMacros.h"
-#import "CCDrawingPrimitives.h"
-#import "CCLabelAtlas.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/ccConfig.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCDrawingPrimitives.h>
+#import <Cocos2D/CCLabelAtlas.h>
+#import <Cocos2D/CGPointExtension.h>
 
 
 

@@ -23,11 +23,11 @@
  */
 
 
-#import "ccConfig.h"
-#import "ccTypes.h"
+#import <Cocos2D/ccConfig.h>
+#import <Cocos2D/ccTypes.h>
 
 // OpenGL related
-#import "CCGL.h"
+#import <Cocos2D/CCGL.h>
 
 /** @typedef ccDirectorProjection
  Possible OpenGL projections used by director

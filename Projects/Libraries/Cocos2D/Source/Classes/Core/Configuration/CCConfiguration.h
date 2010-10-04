@@ -24,7 +24,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "CCGL.h"
+#import <Cocos2D/CCGL.h>
 
 /** OS version definitions. Includes both iOS and Mac OS versions
  */

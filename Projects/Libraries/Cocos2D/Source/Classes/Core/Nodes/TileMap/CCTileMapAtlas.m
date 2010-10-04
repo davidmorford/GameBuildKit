@@ -23,10 +23,10 @@
  *
  */
 
-#import "ccConfig.h"
-#import "CCTileMapAtlas.h"
-#import "ccMacros.h"
-#import "CCFileUtils.h"
+#import <Cocos2D/ccConfig.h>
+#import <Cocos2D/CCTileMapAtlas.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCFileUtils.h>
 
 @interface CCTileMapAtlas (Private)
 -(void) loadTGAfile:(NSString*)file;

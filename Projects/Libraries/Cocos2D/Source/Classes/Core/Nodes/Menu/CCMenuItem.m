@@ -23,12 +23,12 @@
  *
  */
 
-#import "CCMenuItem.h"
-#import "CCLabelTTF.h"
-#import "CCLabelAtlas.h"
-#import "CCActionInterval.h"
-#import "CCSprite.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCMenuItem.h>
+#import <Cocos2D/CCLabelTTF.h>
+#import <Cocos2D/CCLabelAtlas.h>
+#import <Cocos2D/CCActionInterval.h>
+#import <Cocos2D/CCSprite.h>
+#import <Cocos2D/CGPointExtension.h>
 
 static int _fontSize = kItemSize;
 static NSString *_fontName = @"Marker Felt";

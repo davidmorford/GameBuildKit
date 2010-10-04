@@ -6,7 +6,7 @@
 /*
  ccNextPOT function is licensed under the same license that is used in CCTexture2D.m.
  */
-#include "ccUtils.h"
+#import <Cocos2D/ccUtils.h>
 
 unsigned int ccNextPOT(unsigned int x)
 {

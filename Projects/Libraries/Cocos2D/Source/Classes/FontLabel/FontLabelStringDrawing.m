@@ -19,9 +19,9 @@
 // limitations under the License.
 //
 
-#import "FontLabelStringDrawing.h"
-#import "ZFont.h"
-#import "ZAttributedStringPrivate.h"
+#import <Cocos2D/FontLabelStringDrawing.h>
+#import <Cocos2D/ZFont.h>
+#import <Cocos2D/ZAttributedStringPrivate.h>
 
 @interface ZFont (ZFontPrivate)
 @property (nonatomic, readonly) CGFloat ratio;

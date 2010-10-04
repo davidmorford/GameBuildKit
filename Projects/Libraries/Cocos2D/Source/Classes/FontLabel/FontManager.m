@@ -19,9 +19,9 @@
 // limitations under the License.
 //
 
-#import "FontManager.h"
-#import "ZFont.h"
-#import "CCConfiguration.h"
+#import <Cocos2D/FontManager.h>
+#import <Cocos2D/ZFont.h>
+#import <Cocos2D/CCConfiguration.h>
 
 static FontManager *sharedFontManager = nil;
 

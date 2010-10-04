@@ -1,7 +1,7 @@
 
 # BuildKit for Games
 
-BuildKit for Games is an experimental project that brings BuildKit, NavigationKit and Cocos2D into a single structure designed to share static libraries and resources with multiple game applications. Please see the readme for BuildKit to get started.
+BuildKit for Games is an experimental project that brings BuildKit, NavigatorKit and Cocos2D into a single structure designed to share static libraries and resources with multiple game applications. Please see the readme for BuildKit to get started.
 
 [BuildKit Readme](http://github.com/davidmorford/BuildKit/blob/master/Readme.md)
 
@@ -16,25 +16,33 @@ BuildKit for Games is an experimental project that brings BuildKit, NavigationKi
 
 * Cocos2D and Chipmunk static library projects based on cocos2d-iphone-0.99.5-beta3 sources pulled from github project.
 
-* The only major change to libraries is making the headers BuildKit compatible so one can do the following:
+* The major change to libraries is making headers BuildKit compatible so the following can be done in app projects:
 
-** #import <Cocos2D/Cocos2D.h>
-** #import <Chipmunk/Chipmunk.h>
+  ** #import <Cocos2D/Cocos2D.h>
 
-* Cocos2D library headers have not yet been converted to <Cocos2D/*.h> style yet but will be very, very, very soon.
+  **  #import <Chipmunk/Chipmunk.h>
+
+* Chipmunk and Cocos2D headers that used #include are using #import... Everywhere.
 
 
 ## BuildKit for Games Xcode Project Template
 
-The template, based on the NavigatorKit universal application Xcode project template, is not setup for a universal-based iOS game application yet. Stay tuned for updates…
+The template, based on the NavigatorKit universal application Xcode project template, is not setup for a universal-based iOS game application yet. Stay tuned for updates... 
 
 As with BuildKit, BuildKit for Games has an out of the box Xcode project template. The template uses NavigatorKit in hopes of using URL-based application architecture design to build a cohesive set of application URLs and URL mapped objects, scenes and actions. This template includes project references to the Cocos2D, Chipmunk and NavigatorKit projects as a convenience that rebuilds changed library projects. BuildKit uses xcconfig based setting paths for headers and libraries and for linker paths.
+
+## Example Application
+
+### Tentacles Revenge
+
+In development. Stay tuned for updates... 
 
  
 ## History
 
 ### October 3, 2010
 
+* Fix Cocos2D headers, update Readme, add beginning of example application.
 * Create from latest NavigatorKit project structure and include Cocos2D, Chipmunk and minimal Xcode project template.
 
 

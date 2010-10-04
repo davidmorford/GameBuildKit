@@ -25,12 +25,12 @@
 
 
 
-#import "CCDirector.h"
-#import "CCTransitionRadial.h"
-#import "CCRenderTexture.h"
-#import "CCLayer.h"
-#import "CCActionInstant.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/CCTransitionRadial.h>
+#import <Cocos2D/CCRenderTexture.h>
+#import <Cocos2D/CCLayer.h>
+#import <Cocos2D/CCActionInstant.h>
+#import <Cocos2D/CGPointExtension.h>
 
 enum {
 	kSceneRadial = 0xc001,

@@ -27,7 +27,7 @@
  *
  */
 
-#import "CCSpriteSheet.h"
+#import <Cocos2D/CCSpriteSheet.h>
 
 
 @class CCTMXLayer;

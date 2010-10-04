@@ -25,11 +25,11 @@
 
 
 
-#import "CCActionInterval.h"
-#import "CCSprite.h"
-#import "CCSpriteFrame.h"
-#import "CCNode.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCActionInterval.h>
+#import <Cocos2D/CCSprite.h>
+#import <Cocos2D/CCSpriteFrame.h>
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CGPointExtension.h>
 
 //
 // IntervalAction

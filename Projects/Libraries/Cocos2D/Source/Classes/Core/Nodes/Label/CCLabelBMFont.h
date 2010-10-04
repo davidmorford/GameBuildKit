@@ -32,8 +32,8 @@
  *
  */
 
-#import "CCSpriteBatchNode.h"
-#import "uthash.h"
+#import <Cocos2D/CCSpriteBatchNode.h>
+#import <Cocos2D/uthash.h>
 
 struct _KerningHashElement;
 

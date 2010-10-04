@@ -24,9 +24,9 @@
  */
 
 
-#import "CCNode.h"
-#import "CCProtocols.h"
-#import "CCTextureAtlas.h"
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCProtocols.h>
+#import <Cocos2D/CCTextureAtlas.h>
 
 @class CCSpriteBatchNode;
 @class CCSpriteSheet;

@@ -20,7 +20,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "ZAttributedString.h"
+#import <Cocos2D/ZAttributedString.h>
 
 @class ZFont;
 

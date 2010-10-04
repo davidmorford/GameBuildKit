@@ -31,7 +31,7 @@
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 
 
-#import "ESRenderer.h"
+#import <Cocos2D/ESRenderer.h>
 
 #import <OpenGLES/ES1/gl.h>
 #import <OpenGLES/ES1/glext.h>

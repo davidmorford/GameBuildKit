@@ -24,10 +24,10 @@
  */
 
 
-#import "CCProtocols.h"
-#import "CCNode.h"
-#import "ccTypes.h"
-#import "ccConfig.h"
+#import <Cocos2D/CCProtocols.h>
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/ccTypes.h>
+#import <Cocos2D/ccConfig.h>
 
 #if CC_ENABLE_PROFILERS
 @class CCProfilingTimer;

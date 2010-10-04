@@ -24,9 +24,9 @@
  */
 
 
-#import "CCActionInterval.h"
-#import "CCActionInstant.h"
-#import "CCGrid.h"
+#import <Cocos2D/CCActionInterval.h>
+#import <Cocos2D/CCActionInstant.h>
+#import <Cocos2D/CCGrid.h>
 
 @class CCGridBase;
 

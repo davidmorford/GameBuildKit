@@ -23,9 +23,9 @@
  */
 
 
-#import "CCTextureAtlas.h"
-#import "CCNode.h"
-#import "CCProtocols.h"
+#import <Cocos2D/CCTextureAtlas.h>
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCProtocols.h>
 
 /** CCAtlasNode is a subclass of CCNode that implements the CCRGBAProtocol and
  CCTextureProtocol protocol

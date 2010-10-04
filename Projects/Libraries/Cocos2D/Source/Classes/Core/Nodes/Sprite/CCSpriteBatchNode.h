@@ -25,10 +25,10 @@
  */
 
 
-#import "CCNode.h"
-#import "CCProtocols.h"
-#import "CCTextureAtlas.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCProtocols.h>
+#import <Cocos2D/CCTextureAtlas.h>
+#import <Cocos2D/ccMacros.h>
 
 #pragma mark CCSpriteBatchNode
 

@@ -24,11 +24,11 @@
 
 
 // cocos2d imports
-#import "CCScheduler.h"
-#import "ccMacros.h"
-#import "uthash.h"
-#import "utlist.h"
-#import "ccCArray.h"
+#import <Cocos2D/CCScheduler.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/uthash.h>
+#import <Cocos2D/utlist.h>
+#import <Cocos2D/ccCArray.h>
 
 //
 // Data structures

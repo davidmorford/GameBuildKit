@@ -23,8 +23,8 @@
  */
 
 
-#import "ccTypes.h"
-#import "CCTexture2D.h"
+#import <Cocos2D/ccTypes.h>
+#import <Cocos2D/CCTexture2D.h>
 
 #pragma mark -
 #pragma mark CCRGBAProtocol

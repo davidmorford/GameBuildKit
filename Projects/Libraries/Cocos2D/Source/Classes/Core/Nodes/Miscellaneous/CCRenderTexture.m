@@ -24,10 +24,10 @@
  */
 
 #import <Availability.h>
-#import "CCRenderTexture.h"
-#import "CCDirector.h"
-#import "ccMacros.h"
-#import "ccUtils.h"
+#import <Cocos2D/CCRenderTexture.h>
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/ccUtils.h>
 
 @implementation CCRenderTexture
 

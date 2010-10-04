@@ -23,7 +23,7 @@
  */
 
 
-#import "ccCArray.h"
+#import <Cocos2D/ccCArray.h>
 
 
 /** A faster alternative of NSArray.

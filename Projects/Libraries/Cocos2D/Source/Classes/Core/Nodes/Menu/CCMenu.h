@@ -24,8 +24,8 @@
  */
 
 
-#import "CCMenuItem.h"
-#import "CCLayer.h"
+#import <Cocos2D/CCMenuItem.h>
+#import <Cocos2D/CCLayer.h>
 
 typedef enum  {
 	kCCMenuStateWaiting,

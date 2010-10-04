@@ -25,10 +25,10 @@
 
 
 
-#import "CCActionCamera.h"
-#import "CCNode.h"
-#import "CCCamera.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCActionCamera.h>
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCCamera.h>
+#import <Cocos2D/ccMacros.h>
 
 //
 // CameraAction

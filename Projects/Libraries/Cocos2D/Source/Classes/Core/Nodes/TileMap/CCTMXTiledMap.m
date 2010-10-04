@@ -27,14 +27,14 @@
  *
  */
 
-#import "CCTMXTiledMap.h"
-#import "CCTMXXMLParser.h"
-#import "CCTMXLayer.h"
-#import "CCTMXObjectGroup.h"
-#import "CCSprite.h"
-#import "CCSpriteSheet.h"
-#import "CCTextureCache.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCTMXTiledMap.h>
+#import <Cocos2D/CCTMXXMLParser.h>
+#import <Cocos2D/CCTMXLayer.h>
+#import <Cocos2D/CCTMXObjectGroup.h>
+#import <Cocos2D/CCSprite.h>
+#import <Cocos2D/CCSpriteSheet.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CGPointExtension.h>
 
 
 #pragma mark -

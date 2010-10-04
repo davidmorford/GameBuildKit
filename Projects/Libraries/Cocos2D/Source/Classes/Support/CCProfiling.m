@@ -23,11 +23,11 @@
  *
  */
 
-#import "ccConfig.h"
+#import <Cocos2D/ccConfig.h>
 
 #if CC_ENABLE_PROFILERS
 
-#import "CCProfiling.h"
+#import <Cocos2D/CCProfiling.h>
 
 @interface CCProfilingTimer()
 - (id)initWithName:(NSString*)timerName andInstance:(id)instance;

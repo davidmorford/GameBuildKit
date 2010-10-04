@@ -24,7 +24,7 @@
  */
 
 
-#import "CCScene.h"
+#import <Cocos2D/CCScene.h>
 @class CCActionInterval;
 @class CCNode;
 

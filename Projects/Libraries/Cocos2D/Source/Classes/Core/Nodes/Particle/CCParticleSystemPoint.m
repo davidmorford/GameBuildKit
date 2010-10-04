@@ -27,16 +27,16 @@
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 
 // opengl
-#import "CCGL.h"
+#import <Cocos2D/CCGL.h>
 
 // cocos2d
-#import "CCParticleSystemPoint.h"
-#import "CCTextureCache.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCParticleSystemPoint.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/ccMacros.h>
 
 // support
-#import "OpenGL_Internal.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/OpenGL_Internal.h>
+#import <Cocos2D/CGPointExtension.h>
 
 @implementation CCParticleSystemPoint
 

@@ -25,18 +25,18 @@
 
 
 
-#import "CCMenu.h"
-#import "CCDirector.h"
-#import "CGPointExtension.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCMenu.h>
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/CGPointExtension.h>
+#import <Cocos2D/ccMacros.h>
 
 #import <Availability.h>
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
-#import "CCDirectorIOS.h"
-#import "CCTouchDispatcher.h"
+#import <Cocos2D/CCDirectorIOS.h>
+#import <Cocos2D/CCTouchDispatcher.h>
 #elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
-#import "Mac/MacGLView.h"
-#import "Mac/CCDirectorMac.h"
+#import <Cocos2D/Mac/MacGLView.h>
+#import <Cocos2D/Mac/CCDirectorMac.h>
 #endif
 
 enum {

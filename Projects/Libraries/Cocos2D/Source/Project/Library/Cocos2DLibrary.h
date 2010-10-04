@@ -1,11 +1,13 @@
 
 /*!
-@header		Cocos2DLibrary.h
 @project	Cocos2D
-@copyright	(c) 2010, Semantap
+@header		Cocos2DLibrary.h
 */
 
 @class NSString;
 
 NSString * 
 Cocos2DLibraryGetVersion();
+
+NSString * 
+cocos2dVersion(void);

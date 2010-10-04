@@ -26,18 +26,18 @@
 
 #import <stdarg.h>
 
-#import "CCGL.h"
+#import <Cocos2D/CCGL.h>
 
-#import "CCLayer.h"
-#import "CCDirector.h"
-#import "ccMacros.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCLayer.h>
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CGPointExtension.h>
 
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
-#import "CCTouchDispatcher.h"
-#import "CCDirectorIOS.h"
+#import <Cocos2D/CCTouchDispatcher.h>
+#import <Cocos2D/CCDirectorIOS.h>
 #elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
-#import "Mac/CCEventDispatcher.h"
+#import <Cocos2D/Mac/CCEventDispatcher.h>
 #endif
 
 #pragma mark -

@@ -25,12 +25,13 @@
 
 #import <Availability.h>
 
-/**
- @file
- cocos2d (cc) configuration file
+/*!
+@header 
+@abstract cocos2d (cc) configuration file
 */
 
-/** @def CC_FIX_ARTIFACTS_BY_STRECHING_TEXEL
+/*!
+@def CC_FIX_ARTIFACTS_BY_STRECHING_TEXEL
  If enabled, the texture coordinates will be calculated by using this formula:
    - texCoord.left = (rect.origin.x*2+1) / (texture.wide*2);
    - texCoord.right = texCoord.left + (rect.size.width*2-2)/(texture.wide*2);

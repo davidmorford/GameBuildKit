@@ -25,9 +25,9 @@
  */
 
 
-#import "CCActionManager.h"
-#import "CCScheduler.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCActionManager.h>
+#import <Cocos2D/CCScheduler.h>
+#import <Cocos2D/ccMacros.h>
 
 
 //

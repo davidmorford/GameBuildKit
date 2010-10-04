@@ -38,10 +38,10 @@
  */
 
 
-#import "CCRibbon.h"
-#import "CCTextureCache.h"
-#import "CGPointExtension.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCRibbon.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CGPointExtension.h>
+#import <Cocos2D/ccMacros.h>
 
 //
 // Ribbon

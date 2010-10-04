@@ -21,8 +21,8 @@
 #import <assert.h>
 #import <stdio.h>
 
-#import "ZipUtils.h"
-#import "ccMacros.h"
+#import <Cocos2D/ZipUtils.h>
+#import <Cocos2D/ccMacros.h>
 
 int inflateMemory_(unsigned char *in, unsigned int inLength, unsigned char **out, unsigned int *outLength)
 {

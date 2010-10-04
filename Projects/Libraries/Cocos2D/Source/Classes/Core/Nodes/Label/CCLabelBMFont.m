@@ -32,14 +32,14 @@
  *   http://www.angelcode.com/products/bmfont/
  */
 
-#import "ccConfig.h"
-#import "CCLabelBMFont.h"
-#import "CCSprite.h"
-#import "CCDrawingPrimitives.h"
-#import "CCConfiguration.h"
-#import "CCFileUtils.h"
-#import "CGPointExtension.h"
-#import "uthash.h"
+#import <Cocos2D/ccConfig.h>
+#import <Cocos2D/CCLabelBMFont.h>
+#import <Cocos2D/CCSprite.h>
+#import <Cocos2D/CCDrawingPrimitives.h>
+#import <Cocos2D/CCConfiguration.h>
+#import <Cocos2D/CCFileUtils.h>
+#import <Cocos2D/CGPointExtension.h>
+#import <Cocos2D/uthash.h>
 
 #pragma mark -
 #pragma mark FNTConfig Cache - free functions

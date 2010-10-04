@@ -26,12 +26,12 @@
 
 #import <Availability.h>
 
-#import "CCLabelTTF.h"
-#import "CGPointExtension.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCLabelTTF.h>
+#import <Cocos2D/CGPointExtension.h>
+#import <Cocos2D/ccMacros.h>
 
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
-#import "CCDirectorIOS.h"
+#import <Cocos2D/CCDirectorIOS.h>
 #endif
 
 @implementation CCLabelTTF

@@ -24,10 +24,10 @@
  */
 
 
-#import "CCNode.h"
-#import "CCTexture2D.h"
-#import "CCProtocols.h"
-#import "CCGL.h"
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCTexture2D.h>
+#import <Cocos2D/CCProtocols.h>
+#import <Cocos2D/CCGL.h>
 
 /**
  * A CCRibbon is a dynamically generated list of polygons drawn as a single or series

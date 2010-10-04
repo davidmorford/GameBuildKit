@@ -25,14 +25,14 @@
 
 #import <Availability.h>
 
-#import "CCGL.h"
-#import "CCTextureCache.h"
-#import "CCTexture2D.h"
-#import "CCTexturePVR.h"
-#import "ccMacros.h"
-#import "CCConfiguration.h"
-#import "CCFileUtils.h"
-#import "CCDirector.h"
+#import <Cocos2D/CCGL.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CCTexture2D.h>
+#import <Cocos2D/CCTexturePVR.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCConfiguration.h>
+#import <Cocos2D/CCFileUtils.h>
+#import <Cocos2D/CCDirector.h>
 
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 static EAGLContext *auxGLcontext = nil;

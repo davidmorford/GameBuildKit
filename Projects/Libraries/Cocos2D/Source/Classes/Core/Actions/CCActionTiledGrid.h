@@ -23,7 +23,7 @@
  *
  */
 
-#import "CCActionGrid.h"
+#import <Cocos2D/CCActionGrid.h>
 
 /** CCShakyTiles3D action */
 @interface CCShakyTiles3D : CCTiledGrid3DAction

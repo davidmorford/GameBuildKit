@@ -24,7 +24,7 @@
  */
 
 
-#import "CCActionInterval.h"
+#import <Cocos2D/CCActionInterval.h>
 
 /** Base class for Easing actions
  */

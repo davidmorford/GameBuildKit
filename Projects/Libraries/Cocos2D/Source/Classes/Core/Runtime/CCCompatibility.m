@@ -26,7 +26,8 @@
 
 // AUTOMATICALLY GENERATED. DO NOT EDIT
 
-#include "CCCompatibility.h"
+#import <Cocos2D/CCCompatibility.h>
+
 #if CC_COMPATIBILITY_WITH_0_8
 @implementation AccelAmplitude
 @end

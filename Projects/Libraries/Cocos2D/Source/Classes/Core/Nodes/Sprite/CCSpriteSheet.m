@@ -25,7 +25,7 @@
  */
 
 
-#import "CCSpriteSheet.h"
+#import <Cocos2D/CCSpriteSheet.h>
 
 #pragma mark -
 #pragma mark CCSpriteSheet

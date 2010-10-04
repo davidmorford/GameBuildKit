@@ -26,11 +26,11 @@
 
 
 #import <Availability.h>
-#import "CCDirector.h"
-#import "ccMacros.h"
-#import "CCAction.h"
-#import "CCActionInterval.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCAction.h>
+#import <Cocos2D/CCActionInterval.h>
+#import <Cocos2D/CGPointExtension.h>
 
 //
 // Action Base Class

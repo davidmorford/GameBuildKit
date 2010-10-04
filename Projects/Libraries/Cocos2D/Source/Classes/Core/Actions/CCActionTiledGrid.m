@@ -24,10 +24,10 @@
  */
 
 
-#import "CCActionTiledGrid.h"
-#import "CCDirector.h"
-#import "ccMacros.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCActionTiledGrid.h>
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CGPointExtension.h>
 
 typedef struct
 {

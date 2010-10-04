@@ -23,9 +23,9 @@
  *
  */
 
-#import "CCTextureAtlas.h"
-#import "CCAtlasNode.h"
-#import "TGAlib.h"
+#import <Cocos2D/CCTextureAtlas.h>
+#import <Cocos2D/CCAtlasNode.h>
+#import <Cocos2D/TGAlib.h>
 
 /** CCTileMapAtlas is a subclass of CCAtlasNode.
  

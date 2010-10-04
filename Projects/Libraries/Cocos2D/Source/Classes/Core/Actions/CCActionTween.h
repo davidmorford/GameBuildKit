@@ -25,7 +25,7 @@
 
 
 #import <Foundation/Foundation.h>
-#import "CCActionInterval.h"
+#import <Cocos2D/CCActionInterval.h>
 
 /** CCActionTween
  

@@ -23,10 +23,10 @@
  */
 
 
-#import "CCGL.h"
-#import "CCCamera.h"
-#import "ccMacros.h"
-#import "CCDrawingPrimitives.h"
+#import <Cocos2D/CCGL.h>
+#import <Cocos2D/CCCamera.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCDrawingPrimitives.h>
 
 @implementation CCCamera
 

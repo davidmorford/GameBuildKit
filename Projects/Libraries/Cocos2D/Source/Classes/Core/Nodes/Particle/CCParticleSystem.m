@@ -42,23 +42,23 @@
 //
 
 // opengl
-#import "CCGL.h"
+#import <Cocos2D/CCGL.h>
 
 // cocos2d
-#import "ccConfig.h"
+#import <Cocos2D/ccConfig.h>
 #if CC_ENABLE_PROFILERS
-#import "CCProfiling.h"
+#import <Cocos2D/CCProfiling.h>
 #endif
-#import "CCParticleSystem.h"
-#import "CCTextureCache.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCParticleSystem.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/ccMacros.h>
 
 // support
-#import "OpenGL_Internal.h"
-#import "CGPointExtension.h"
-#import "base64.h"
-#import "ZipUtils.h"
-#import "CCFileUtils.h"
+#import <Cocos2D/OpenGL_Internal.h>
+#import <Cocos2D/CGPointExtension.h>
+#import <Cocos2D/base64.h>
+#import <Cocos2D/ZipUtils.h>
+#import <Cocos2D/CCFileUtils.h>
 
 @implementation CCParticleSystem
 @synthesize active, duration;

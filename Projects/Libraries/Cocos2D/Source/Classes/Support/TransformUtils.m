@@ -24,7 +24,7 @@
  */
 
 
-#import "TransformUtils.h"
+#import <Cocos2D/TransformUtils.h>
 
 void CGAffineToGL(const CGAffineTransform *t, GLfloat *m)
 {

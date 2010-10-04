@@ -27,13 +27,13 @@
  *
  */
 
-#import "CCTMXLayer.h"
-#import "CCTMXTiledMap.h"
-#import "CCTMXXMLParser.h"
-#import "CCSprite.h"
-#import "CCSpriteBatchNode.h"
-#import "CCTextureCache.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/CCTMXLayer.h>
+#import <Cocos2D/CCTMXTiledMap.h>
+#import <Cocos2D/CCTMXXMLParser.h>
+#import <Cocos2D/CCSprite.h>
+#import <Cocos2D/CCSpriteBatchNode.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CGPointExtension.h>
 
 #pragma mark -
 #pragma mark CCSpriteBatchNode Extension

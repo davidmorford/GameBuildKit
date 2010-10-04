@@ -28,7 +28,7 @@
 #import <Availability.h>
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 
-#import "CCDirector.h"
+#import <Cocos2D/CCDirector.h>
 
 /** @typedef ccDeviceOrientation
  Possible device orientations

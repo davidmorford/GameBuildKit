@@ -24,7 +24,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "CCSprite.h"
+#import <Cocos2D/CCSprite.h>
 
 /** Types of progress
  @since v0.99.1

@@ -30,9 +30,9 @@
 #import <Availability.h>
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 
-#import "ES1Renderer.h"
-#import "OpenGL_Internal.h"
-#import "ccMacros.h"
+#import <Cocos2D/ES1Renderer.h>
+#import <Cocos2D/OpenGL_Internal.h>
+#import <Cocos2D/ccMacros.h>
 
 @implementation ES1Renderer
 

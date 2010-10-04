@@ -28,8 +28,8 @@
 #import <Availability.h>
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 
-#import "CCTouchDelegateProtocol.h"
-#import "EAGLView.h"
+#import <Cocos2D/CCTouchDelegateProtocol.h>
+#import <Cocos2D/EAGLView.h>
 
 
 typedef enum

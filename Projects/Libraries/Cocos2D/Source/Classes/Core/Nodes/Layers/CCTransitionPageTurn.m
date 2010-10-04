@@ -24,9 +24,9 @@
  */
 
 
-#import "CCTransitionPageTurn.h"
-#import	"CCActionPageTurn3D.h"
-#import "CCDirector.h"
+#import <Cocos2D/CCTransitionPageTurn.h>
+#import <Cocos2D/CCActionPageTurn3D.h>
+#import <Cocos2D/CCDirector.h>
 
 @implementation CCTransitionPageTurn
 

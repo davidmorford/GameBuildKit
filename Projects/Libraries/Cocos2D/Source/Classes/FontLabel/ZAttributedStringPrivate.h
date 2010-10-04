@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "ZAttributedString.h"
+#import <Cocos2D/ZAttributedString.h>
 
 @interface ZAttributeRun : NSObject <NSCopying, NSCoding> {
 	NSUInteger _index;

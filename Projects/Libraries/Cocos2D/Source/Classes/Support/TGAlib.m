@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#import "TGAlib.h"
+#import <Cocos2D/TGAlib.h>
 
 
 // load the image header fields. We only keep those that matter!

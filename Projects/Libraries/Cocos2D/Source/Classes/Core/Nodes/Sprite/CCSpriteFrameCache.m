@@ -30,13 +30,13 @@
  * http://zwoptex.zwopple.com/
  */
 
-#import "CCNS.h"
-#import "ccMacros.h"
-#import "CCTextureCache.h"
-#import "CCSpriteFrameCache.h"
-#import "CCSpriteFrame.h"
-#import "CCSprite.h"
-#import "CCFileUtils.h"
+#import <Cocos2D/CCNS.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CCSpriteFrameCache.h>
+#import <Cocos2D/CCSpriteFrame.h>
+#import <Cocos2D/CCSprite.h>
+#import <Cocos2D/CCFileUtils.h>
 
 
 @implementation CCSpriteFrameCache

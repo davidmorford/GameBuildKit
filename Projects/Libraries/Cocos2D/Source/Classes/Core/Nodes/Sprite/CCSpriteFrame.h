@@ -24,8 +24,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "CCNode.h"
-#import "CCProtocols.h"
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCProtocols.h>
 
 #pragma mark -
 #pragma mark CCSpriteFrame

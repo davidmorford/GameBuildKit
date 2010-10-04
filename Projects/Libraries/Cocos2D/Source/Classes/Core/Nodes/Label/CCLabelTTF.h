@@ -24,9 +24,9 @@
  */
 
 
-#import "CCTexture2D.h"
-#import "CCSprite.h"
-#import "CCNS.h"
+#import <Cocos2D/CCTexture2D.h>
+#import <Cocos2D/CCSprite.h>
+#import <Cocos2D/CCNS.h>
 
 
 /** CCLabel is a subclass of CCTextureNode that knows how to render text labels

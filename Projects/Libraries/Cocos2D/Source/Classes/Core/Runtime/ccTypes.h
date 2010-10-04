@@ -35,7 +35,7 @@
 #import <CoreGraphics/CGGeometry.h>	// CGPoint
 #endif
 
-#import "CCGL.h"
+#import <Cocos2D/CCGL.h>
 
 /** RGB color composed of bytes 3 bytes
 @since v0.8

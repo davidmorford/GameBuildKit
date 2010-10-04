@@ -24,7 +24,7 @@
 
 
 #import <math.h>
-#import "ccConfig.h"
+#import <Cocos2D/ccConfig.h>
 
 #import <Foundation/Foundation.h>
 #import <Availability.h>
@@ -187,7 +187,7 @@ do {															\
 	On iPhone it returns 2 if RetinaDisplay is On. Otherwise it returns 1
 */
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
-#import "CCDirectorIOS.h"
+#import <Cocos2D/CCDirectorIOS.h>
 #define CC_CONTENT_SCALE_FACTOR() __ccContentScaleFactor
 #elif __MAC_OS_X_VERSION_MAX_ALLOWED
 #define CC_CONTENT_SCALE_FACTOR() 1

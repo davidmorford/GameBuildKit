@@ -25,7 +25,7 @@
  */
 
 
-#import "CCSpriteBatchNode.h"
+#import <Cocos2D/CCSpriteBatchNode.h>
 
 #pragma mark CCSpriteSheet
 

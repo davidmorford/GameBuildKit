@@ -24,7 +24,7 @@
  */
 
 
-#import "CCActionGrid.h"
+#import <Cocos2D/CCActionGrid.h>
 
 /** CCWaves3D action */
 @interface CCWaves3D : CCGrid3DAction

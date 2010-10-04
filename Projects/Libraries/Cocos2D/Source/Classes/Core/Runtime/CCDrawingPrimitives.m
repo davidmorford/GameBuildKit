@@ -26,10 +26,10 @@
 #import <stdlib.h>
 #import <string.h>
 
-#import "CCDrawingPrimitives.h"
-#import "ccTypes.h"
-#import "ccMacros.h"
-#import "CCGL.h"
+#import <Cocos2D/CCDrawingPrimitives.h>
+#import <Cocos2D/ccTypes.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCGL.h>
 
 void ccDrawPoint( CGPoint point )
 {

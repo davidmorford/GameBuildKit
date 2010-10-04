@@ -27,7 +27,7 @@
 #include <sys/time.h>
 #import <Foundation/Foundation.h>
 
-#import "ccTypes.h"
+#import <Cocos2D/ccTypes.h>
 
 enum {
 	//! Default tag

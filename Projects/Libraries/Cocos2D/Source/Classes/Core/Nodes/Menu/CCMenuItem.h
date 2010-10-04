@@ -23,10 +23,10 @@
  *
  */
 
-#import "CCBlockSupport.h"
+#import <Cocos2D/CCBlockSupport.h>
 
-#import "CCNode.h"
-#import "CCProtocols.h"
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCProtocols.h>
 
 @class CCLabel;
 @class CCLabelAtlas;

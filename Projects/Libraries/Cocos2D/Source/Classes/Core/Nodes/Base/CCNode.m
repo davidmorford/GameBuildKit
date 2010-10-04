@@ -23,22 +23,22 @@
  * THE SOFTWARE.
  */
 
-#import "CCNode.h"
-#import "CCGrid.h"
-#import "CCDirector.h"
-#import "CCActionManager.h"
-#import "CCCamera.h"
-#import "CCScheduler.h"
-#import "ccConfig.h"
-#import "ccMacros.h"
-#import "CGPointExtension.h"
-#import "ccCArray.h"
-#import "TransformUtils.h"
-#import "ccMacros.h"
+#import <Cocos2D/CCNode.h>
+#import <Cocos2D/CCGrid.h>
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/CCActionManager.h>
+#import <Cocos2D/CCCamera.h>
+#import <Cocos2D/CCScheduler.h>
+#import <Cocos2D/ccConfig.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CGPointExtension.h>
+#import <Cocos2D/ccCArray.h>
+#import <Cocos2D/TransformUtils.h>
+#import <Cocos2D/ccMacros.h>
 
 #import <Availability.h>
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
-#import "CCDirectorIOS.h"
+#import <Cocos2D/CCDirectorIOS.h>
 #endif
 
 

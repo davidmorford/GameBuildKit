@@ -68,12 +68,12 @@ Copyright (C) 2008 Apple Inc. All Rights Reserved.
 
 #import <QuartzCore/QuartzCore.h>
 
-#import "EAGLView.h"
-#import "ES1Renderer.h"
-#import "CCDirector.h"
-#import "ccMacros.h"
-#import "CCConfiguration.h"
-#import "OpenGL_Internal.h"
+#import <Cocos2D/EAGLView.h>
+#import <Cocos2D/ES1Renderer.h>
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCConfiguration.h>
+#import <Cocos2D/OpenGL_Internal.h>
 
 
 

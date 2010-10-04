@@ -23,7 +23,7 @@
  *
  */
 
-#import "CCActionInterval.h"
+#import <Cocos2D/CCActionInterval.h>
 
 @class CCCamera;
 

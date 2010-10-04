@@ -26,18 +26,18 @@
 
 
 // opengl
-#import "CCGL.h"
+#import <Cocos2D/CCGL.h>
 
 // cocos2d
-#import "ccConfig.h"
-#import "CCParticleSystemQuad.h"
-#import "CCTextureCache.h"
-#import "ccMacros.h"
-#import "CCSpriteFrame.h"
+#import <Cocos2D/ccConfig.h>
+#import <Cocos2D/CCParticleSystemQuad.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCSpriteFrame.h>
 
 // support
-#import "OpenGL_Internal.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/OpenGL_Internal.h>
+#import <Cocos2D/CGPointExtension.h>
 
 @implementation CCParticleSystemQuad
 

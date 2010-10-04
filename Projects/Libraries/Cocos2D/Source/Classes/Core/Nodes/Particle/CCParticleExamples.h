@@ -26,8 +26,8 @@
 
 #import <Availability.h>
 
-#import "CCParticleSystemPoint.h"
-#import "CCParticleSystemQuad.h"
+#import <Cocos2D/CCParticleSystemPoint.h>
+#import <Cocos2D/CCParticleSystemQuad.h>
 
 // build each architecture with the optimal particle system
 

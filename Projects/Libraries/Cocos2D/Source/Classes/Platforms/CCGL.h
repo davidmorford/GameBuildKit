@@ -32,14 +32,14 @@
 #import <OpenGLES/ES1/gl.h>
 #import <OpenGLES/ES1/glext.h>
 #import <OpenGLES/EAGL.h>
-#import "glu.h"
-#import "EAGLView.h"
+#import <Cocos2D/glu.h>
+#import <Cocos2D/EAGLView.h>
 
 #elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
 #import <OpenGL/gl.h>
 #import <OpenGL/glu.h>
 #import <Cocoa/Cocoa.h>	// needed for NSOpenGLView
-#import "Mac/MacGLView.h"
+#import <Cocos2D/Mac/MacGLView.h>
 #endif
 
 

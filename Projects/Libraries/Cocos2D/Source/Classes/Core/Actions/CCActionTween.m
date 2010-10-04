@@ -23,7 +23,7 @@
  *
  */
 
-#import "CCActionTween.h"
+#import <Cocos2D/CCActionTween.h>
 
 
 @implementation CCActionTween

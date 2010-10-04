@@ -28,13 +28,13 @@
 #import <Availability.h>
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 #import <UIKit/UIKit.h>					// Needed for UIAccelerometerDelegate
-#import "CCTouchDelegateProtocol.h"		// Touches only supported on iOS
+#import <Cocos2D/CCTouchDelegateProtocol.h>		// Touches only supported on iOS
 #elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
-#import "Mac/CCEventDispatcher.h"
+#import <Cocos2D/Mac/CCEventDispatcher.h>
 #endif
 
-#import "CCProtocols.h"
-#import "CCNode.h"
+#import <Cocos2D/CCProtocols.h>
+#import <Cocos2D/CCNode.h>
 
 //
 // CCLayer

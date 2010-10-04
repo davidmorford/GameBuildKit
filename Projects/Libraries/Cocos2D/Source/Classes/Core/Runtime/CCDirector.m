@@ -30,36 +30,36 @@
 #import <Availability.h>
 
 // cocos2d imports
-#import "CCDirector.h"
-#import "CCScheduler.h"
-#import "CCActionManager.h"
-#import "CCTextureCache.h"
-#import "CCLabelAtlas.h"
-#import "ccMacros.h"
-#import "CCTransition.h"
-#import "CCScene.h"
-#import "CCSpriteFrameCache.h"
-#import "CCTexture2D.h"
-#import "CCLabelBMFont.h"
-#import "CCLayer.h"
+#import <Cocos2D/CCDirector.h>
+#import <Cocos2D/CCScheduler.h>
+#import <Cocos2D/CCActionManager.h>
+#import <Cocos2D/CCTextureCache.h>
+#import <Cocos2D/CCLabelAtlas.h>
+#import <Cocos2D/ccMacros.h>
+#import <Cocos2D/CCTransition.h>
+#import <Cocos2D/CCScene.h>
+#import <Cocos2D/CCSpriteFrameCache.h>
+#import <Cocos2D/CCTexture2D.h>
+#import <Cocos2D/CCLabelBMFont.h>
+#import <Cocos2D/CCLayer.h>
 
 // support imports
-#import "CCGL.h"
-#import "CCNS.h"
+#import <Cocos2D/CCGL.h>
+#import <Cocos2D/CCNS.h>
 
-#import "OpenGL_Internal.h"
-#import "CGPointExtension.h"
+#import <Cocos2D/OpenGL_Internal.h>
+#import <Cocos2D/CGPointExtension.h>
 
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
-#import "CCDirectorIOS.h"
+#import <Cocos2D/CCDirectorIOS.h>
 #define CC_DIRECTOR_DEFAULT CCDirectorTimer
 #elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
-#import "Mac/CCDirectorMac.h"
+#import <Cocos2D/Mac/CCDirectorMac.h>
 #define CC_DIRECTOR_DEFAULT CCDirectorDisplayLink
 #endif
 
 #if CC_ENABLE_PROFILERS
-#import "CCProfiling.h"
+#import <Cocos2D/CCProfiling.h>
 #endif
 
 #define kDefaultFPS		60.0	// 60 frames per second

@@ -1,19 +1,19 @@
 
 # ================================================================================
-# Build Kit 
-#
+# Build Kit for Games
 # (c) 2008 - 2010, Semantap
 # 
 # iOS Application and Libraries Build Script
 #
-# Created: Aug. 12, 2009 - david [at] semantap
-# Updated: Sep. 08, 2009 - david [at] semantap
-# Updated: Mar. 17, 2010 - david [at] semantap
-# Updated: Apr. 12, 2010 - david [at] semantap
-# Updated: Jun. 20, 2010 - david [at] semantap
-# Updated: Sept. 4, 2010 - david [at] semantap
+# Created: Aug.  12, 2009 - david [at] semantap
+# Updated: Sep.  08, 2009 - david [at] semantap
+# Updated: Mar.  17, 2010 - david [at] semantap
+# Updated: Apr.  12, 2010 - david [at] semantap
+# Updated: Jun.  20, 2010 - david [at] semantap
+# Updated: Sept.  4, 2010 - david [at] semantap
 # Updated: Sept. 15, 2010 - david [at] semantap
 # Updated: Sept. 19, 2010 - david [at] semantap
+# Updated: Oct.   4, 2010 - david [at] semantap
 # ================================================================================
 
 Usage()
@@ -126,6 +126,8 @@ CleanDeployedLibrary()
 }
 
 CleanDeployedLibrary NavigatorKit
+CleanDeployedLibrary Cocos2D
+CleanDeployedLibrary Chipmunk
 
 # Add libraries to clean
 
@@ -153,5 +155,7 @@ BuildLibrary()
 # ================================================================================
 
 BuildLibrary $LIBRARIES_ROOT NavigatorKit NavigatorKit
+BuildLibrary $LIBRARIES_ROOT Cocos2D Cocos2D
+BuildLibrary $LIBRARIES_ROOT Chipmunk Chipmunk
 
 # Add libraries

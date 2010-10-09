@@ -5,7 +5,7 @@
 // (c) 2008 - 2010, Semantap
 //
 
-#include "Platform-4.1.xcconfig"
+#include "Platform-Universal-Latest.xcconfig"
 
 // Ugh...
 

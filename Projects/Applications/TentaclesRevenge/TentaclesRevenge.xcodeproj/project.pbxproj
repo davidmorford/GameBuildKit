@@ -730,7 +730,7 @@
 			baseConfigurationReference = 638438071040EB4100D29404 /* Project.xcconfig */;
 			buildSettings = {
 				GCC_OPTIMIZATION_LEVEL = 0;
-				SDKROOT = iphoneos4.1;
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};

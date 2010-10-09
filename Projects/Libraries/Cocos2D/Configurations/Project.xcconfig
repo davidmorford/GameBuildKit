@@ -7,3 +7,6 @@
 #include "../../../Configurations/Project.xcconfig"
 
 CODE_SIGN_IDENTITY				= iPhone Developer
+
+GCC_VERSION						= com.apple.compilers.llvm.clang.1_0
+OTHER_CFLAGS					= 

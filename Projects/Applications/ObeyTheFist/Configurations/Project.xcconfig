@@ -1,0 +1,9 @@
+
+//
+// ObeyTheFist/Configurations/Project.xcconfig
+//
+
+#include "../../../Configurations/Platform-Universal-Latest.xcconfig"
+#include "../../../Configurations/Project.xcconfig"
+
+CODE_SIGN_IDENTITY = iPhone Developer
